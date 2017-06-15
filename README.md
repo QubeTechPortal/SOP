@@ -37,4 +37,5 @@ auto=true priority=critical file=/cdrom/preseed.cfg language=us
 
 ### Reference
 rsync - https://en.wikipedia.org/wiki/Rsync 
+
 Preseed - https://wiki.debian.org/DebianInstaller/Preseed 
