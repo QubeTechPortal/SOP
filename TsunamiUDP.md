@@ -12,7 +12,7 @@
 ### Server Side:
 Move to the file directory from which files are to be transferred.
 <pre><code>
-tsunamiid --port 46224 *
+tsunamid --port 46224 *
 </pre></code>
 
 ### Client side:
