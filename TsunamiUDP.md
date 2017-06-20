@@ -11,13 +11,12 @@ sudo make install
 
 ### Server Side:
 Move to the file directory from which files are to be transferred.
-
-### Command:
+<pre><code>
 tsunamiid --port 46224 *
+</pre></code>
 
 ### Client side:
 Move to the directory to which files are to be received.
-
-### Command:
+<pre><code>
 sudo tsunami set rate 100M connect 172.16.2.28 get *
-
+</pre></code>
