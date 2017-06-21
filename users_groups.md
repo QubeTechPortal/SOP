@@ -1,8 +1,7 @@
 # Commands for users and groups:
 
 ### Add users with home directory:
-<pre><code>
-sudo adduser username
+<pre><code>sudo adduser username
 </pre></code>
 
 ### Delete user and delete user's homedirectory:
