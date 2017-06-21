@@ -17,5 +17,5 @@ sudo service ssh restart
 </pre></code>
 
 ### Kill ssh session with processid:
-<pre><code>kill -1 <pid>
+<pre><code>kill -1 pid
 </pre></code>
