@@ -17,6 +17,6 @@ Save and close the file.
 </pre></code>
 
 #### Place the file that you need to host in ftp server by placing the file in the /srv/ftp/ directory present in / (root directory).
-#### To access files hosted in ftp server use the following url ftp://172.16.2.28.
+#### To access files hosted in ftp server use the following url "ftp://ip_address".
  
 
