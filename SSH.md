@@ -19,3 +19,16 @@ sudo service ssh restart
 ### Kill ssh session with process id:
 <pre><code>kill -1 pid
 </pre></code>
+
+### Access a remote server without password:
+
+#### In Client Machine:
+<pre><code>ssh-keygen -t rsa
+</pre></code>
+#### Press enter until the key is generated.
+<pre><code>ssh-copy-id user@remoteserver_ip_address
+</pre></code>
+
+
+
+
