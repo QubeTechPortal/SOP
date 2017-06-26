@@ -25,7 +25,7 @@ sudo service ssh restart
 #### In Client Machine:
 <pre><code>ssh-keygen -t rsa
 </pre></code>
-#### Press enter until the key is generated.
+#### Press Enter until the key is generated.
 <pre><code>ssh-copy-id user@remoteserver_ip_address
 </pre></code>
 
