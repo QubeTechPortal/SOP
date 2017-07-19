@@ -12,6 +12,7 @@ make -e os=LINUX arch=AMD64
 </pre></code>
 
 ### Create a shell file for executing the udr command and store the output in a log file:
+<pre><code>
 
 
 ### Install incron:
